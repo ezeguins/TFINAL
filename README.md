@@ -18,7 +18,7 @@ Welcome to the repository for my specialization in Artificial Intelligence thesi
 
 This section contains a comprehensive account of the research and work conducted for the specialization in Artificial Intelligence thesis. It includes detailed documentation, methodologies, experiments, results, and conclusions.
 
-[Link to Thesis Memory]((https://github.com/ezeguins/TFINAL/blob/main/TI_Guinsburg_Ezequiel_V9.pdf))
+[Link to Thesis Memory](https://github.com/ezeguins/TFINAL/blob/main/TI_Guinsburg_Ezequiel_V9.pdf)
 
 ## Presentation
 
